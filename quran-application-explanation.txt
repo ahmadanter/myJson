@@ -8,8 +8,8 @@
 <div><p>8</p><img src="https://ia801908.us.archive.org/13/items/background-color/8.jpg"></div>
 <div><p>9</p><img src="https://ia801908.us.archive.org/13/items/background-color/9.jpg"></div>
 <div><p>10</p><img src="https://ia601908.us.archive.org/13/items/background-color/10.jpg"></div>
-<div><p>10</p><img src="https://ia801908.us.archive.org/13/items/background-color/11.jpg"></div>
-<div><p>10</p><img src="https://ia601908.us.archive.org/13/items/background-color/12.jpg"></div>
+<div><p>11</p><img src="https://ia801908.us.archive.org/13/items/background-color/11.jpg"></div>
+<div><p>12</p><img src="https://ia601908.us.archive.org/13/items/background-color/12.jpg"></div>
 ,
 <div><p>1</p><img src="https://ia601608.us.archive.org/33/items/edit-page/1.jpg"></div>
 <div><p>2</p><img src="https://ia601608.us.archive.org/33/items/edit-page/2.jpg"></div>
