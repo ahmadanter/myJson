@@ -138,16 +138,16 @@
 <div><p>21</p><img src="https://ia801401.us.archive.org/25/items/memorize-listening/21.jpg"></div>
 <div><p>22</p><img src="https://ia601401.us.archive.org/25/items/memorize-listening/22.jpg"></div>
 ,
-<div><p>1</p><img src="https://ia601707.us.archive.org/17/items/misbaha/1.jpg"></div>
-<div><p>2</p><img src="https://ia601707.us.archive.org/17/items/misbaha/2.jpg"></div>
-<div><p>3</p><img src="https://ia601707.us.archive.org/17/items/misbaha/3.jpg"></div>
-<div><p>4</p><img src="https://ia601707.us.archive.org/17/items/misbaha/4.jpg"><p>أكتب الذكر</p></div>
-<div><p>5</p><img src="https://ia601707.us.archive.org/17/items/misbaha/5.jpg"></div>
-<div><p>6</p><img src="https://ia601707.us.archive.org/17/items/misbaha/6.jpg"><p>أختار طريقة العد</p></div>
-<div><p>7</p><img src="https://ia601707.us.archive.org/17/items/misbaha/7.jpg"></div>
-<div><p>8</p><img src="https://ia601707.us.archive.org/17/items/misbaha/8.jpg"><p>أكتب العدد</p></div>
-<div><p>9</p><img src="https://ia601707.us.archive.org/17/items/misbaha/9.jpg"><p>أضغط هنا لزيادة العدد</p></div>
-<div><p>10</p><img src="https://ia601707.us.archive.org/17/items/misbaha/10.jpg"><p>إعادة العدد</p></div>
+<div><p>1</p><img src="https://ia801707.us.archive.org/17/items/misbaha/1.jpg"></div>
+<div><p>2</p><img src="https://ia801707.us.archive.org/17/items/misbaha/2.jpg"></div>
+<div><p>3</p><img src="https://ia801707.us.archive.org/17/items/misbaha/3.jpg"></div>
+<div><p>4</p><img src="https://ia801707.us.archive.org/17/items/misbaha/4.jpg"><p>أكتب الذكر</p></div>
+<div><p>5</p><img src="https://ia801707.us.archive.org/17/items/misbaha/5.jpg"></div>
+<div><p>6</p><img src="https://ia801707.us.archive.org/17/items/misbaha/6.jpg"><p>أختار طريقة العد</p></div>
+<div><p>7</p><img src="https://ia801707.us.archive.org/17/items/misbaha/7.jpg"></div>
+<div><p>8</p><img src="https://ia801707.us.archive.org/17/items/misbaha/8.jpg"><p>أكتب العدد</p></div>
+<div><p>9</p><img src="https://ia801707.us.archive.org/17/items/misbaha/9.jpg"><p>أضغط هنا لزيادة العدد</p></div>
+<div><p>10</p><img src="https://ia801707.us.archive.org/17/items/misbaha/10.jpg"><p>إعادة العدد</p></div>
 ,
 <div><p>1</p><img src="https://ia601704.us.archive.org/14/items/anshi-adhdhkaruk/1.jpg"></div>
 <div><p>2</p><img src="https://ia601704.us.archive.org/14/items/anshi-adhdhkaruk/2.jpg"></div>
