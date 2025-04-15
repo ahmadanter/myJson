@@ -285,3 +285,19 @@
 <div><p>7</p><img src="https://ia601401.us.archive.org/1/items/memorize-verse/7.jpg"></div>
 <div><p>8</p><img src="https://ia801401.us.archive.org/1/items/memorize-verse/8.jpg"></div>
 <div><p>9</p><img src="https://ia801401.us.archive.org/1/items/memorize-verse/9.jpg"></div>
+,
+<div><p>1</p><img src="https://ia801401.us.archive.org/15/items/app-alarm/1.jpg"></div>
+<div><p>2</p><img src="https://ia601401.us.archive.org/15/items/app-alarm/2.jpg"></div>
+<div><p>3</p><img src="https://ia601401.us.archive.org/15/items/app-alarm/3.jpg"></div>
+<div><p>4</p><img src="https://ia601401.us.archive.org/15/items/app-alarm/4.jpg"></div>
+<div><p>5</p><img src="https://ia601401.us.archive.org/15/items/app-alarm/5.jpg"></div>
+<div><p>6</p><img src="https://ia601401.us.archive.org/15/items/app-alarm/6.jpg"></div>
+<div><p>7</p><img src="https://ia801401.us.archive.org/15/items/app-alarm/7.jpg"></div>
+<div><p>8</p><img src="https://ia601401.us.archive.org/15/items/app-alarm/8.jpg"></div>
+<div><p>9</p><img src="https://ia601401.us.archive.org/15/items/app-alarm/9.jpg"><p>أضبط الوقت</p></div>
+<div><p>10</p><img src="https://ia801401.us.archive.org/15/items/app-alarm/10.jpg"><p>أكتب إسم المنبة</p></div>
+<div><p>11</p><img src="https://ia601401.us.archive.org/15/items/app-alarm/11.jpg"></div>
+<div><p>12</p><img src="https://ia801401.us.archive.org/15/items/app-alarm/12.jpg"><p>أختار اليوم</p></div>
+<div><p>13</p><img src="https://ia801401.us.archive.org/15/items/app-alarm/13.jpg"></div>
+<div><p>14</p><img src="https://ia801401.us.archive.org/15/items/app-alarm/14.jpg"></div>
+<div><p>15</p><img src="https://ia801401.us.archive.org/15/items/app-alarm/15.jpg"></div>
